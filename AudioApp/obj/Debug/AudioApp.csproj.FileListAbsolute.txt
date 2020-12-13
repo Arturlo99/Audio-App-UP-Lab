@@ -1,0 +1,33 @@
+C:\Users\huawei\source\repos\AudioApp\AudioApp\bin\Debug\AudioApp.exe.config
+C:\Users\huawei\source\repos\AudioApp\AudioApp\bin\Debug\AudioApp.exe
+C:\Users\huawei\source\repos\AudioApp\AudioApp\bin\Debug\AudioApp.pdb
+C:\Users\huawei\source\repos\AudioApp\AudioApp\bin\Debug\NAudio.dll
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csprojAssemblyReference.cache
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.AudioApp.resources
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.Properties.Resources.resources
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.GenerateResource.cache
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.CoreCompileInputs.cache
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.CopyComplete
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.exe
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.pdb
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\bin\Debug\AudioApp.exe.config
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\bin\Debug\AudioApp.exe
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\bin\Debug\AudioApp.pdb
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.AudioApp.resources
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.Properties.Resources.resources
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.CopyComplete
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.exe
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.pdb
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.ResolveComReference.cache
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artur\Desktop\Studia\5 semestr\UP\AudioApp\AudioApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\huawei\source\repos\AudioApp\AudioApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\huawei\source\repos\AudioApp\AudioApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\huawei\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.ResolveComReference.cache
